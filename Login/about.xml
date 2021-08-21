@@ -1,0 +1,24 @@
+<?xml-stylesheet href="common.css"?>
+<?xml-stylesheet href="modern.css"
+  title="Modern" media="screen"
+  type="text/css"?>
+<?xml-stylesheet href="classic.css"
+  alternate="yes" title="Classic"
+  media="screen, print" type="text/css"?>
+
+<ARTICLE>
+    <topnav>
+      <a class="active" href="index.php">Home</a>
+      <a href="Products.php">Products</a>
+                  
+      <a href="samsess.php">Contact</a>
+      <a href="logout.php">Logout</a>
+   </topnav>
+  <HEADLINE> About Page</HEADLINE>
+  <AUTHOR>Online Auction System</AUTHOR>
+  <PARA>
+    
+    <INSTRUMENT></INSTRUMENT>
+    This is a sample about page designed with xml file.
+  </PARA>
+</ARTICLE>
